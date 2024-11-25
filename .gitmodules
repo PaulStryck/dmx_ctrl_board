@@ -1,0 +1,3 @@
+[submodule "libs/LXSAMD21DMX"]
+	path = libs/LXSAMD21DMX
+	url = git@github.com:PaulStryck/LXSAMD21DMX.git
